@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Introduction to Hibernate Exercise/Introduction to Hibernate Exercise.iml" filepath="$PROJECT_DIR$/../Introduction to Hibernate Exercise/Introduction to Hibernate Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Introduction to Hibernate Exercise Resource/Introduction to Hibernate Exercise Resource.iml" filepath="$PROJECT_DIR$/../Introduction to Hibernate Exercise Resource/Introduction to Hibernate Exercise Resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java DB Apps Introduction Exercise.iml" filepath="$PROJECT_DIR$/Java DB Apps Introduction Exercise.iml" />
+    </modules>
+  </component>
+</project>
